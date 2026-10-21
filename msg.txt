@@ -1,4 +1,3 @@
-En mi apartado de plugins impacientes, acabo de publicar un nuevo complemento que se llama Impaciente TTS. (Plugins impacientes | 1792149588)
 Se volvió a actualizar el TTS Supremo y, en esta versión, se corrigió el siguiente error.  Error al convertir el fragmento 1. Invalid method call. at public final void android.media.MediaExtractor.setDataSource(java.lang.String) throws java.io.IOException -> java.io.IOException: Failed to instantiate extractor. (Mi Android Accesible | 1791918327)
 Nueva versión de vigilante para WhatsApp. Esta es la número 2, podrás saber quién es la persona que ingresa al chat de audio o el que lo abandona entre muchas cosas accesibles más. (Tiflo noticias información de personas ciegas | 1791598426)
 nuevo complemento. grabadora de pantalla pro tiflotech. Disponible para dispositivos Samsung. con posibilidades de que funcione en otras marcas. (Tiflotech | 1791443119)
